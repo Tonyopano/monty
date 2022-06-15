@@ -38,6 +38,7 @@ pall$
 The functions used are:
 | Name | Description | Return | File |
 |:-----|:-----------:|-------:|------:|
+|_f_add |adds the top two elements of the stack| No Return |add.c |
 
 ## Project by Suara Ayomide and Chukwuoma Chizoba
 
