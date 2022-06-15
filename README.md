@@ -20,7 +20,9 @@ This is a language that contains specific instructions to manipulate data inform
 
     ```
     ./monty file.m
-//The file contains the bytcode instructions for example
+    ```
+The file contains the bytcode instructions for example
+   ```
 cat -e 000.m
 push 0$
 push 1$
