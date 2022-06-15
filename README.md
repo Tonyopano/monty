@@ -48,6 +48,7 @@ The functions used are:
 
 
 ## AUTHORS 
-**Suara Ayomide**
-**Chukwuoma Chizoba**
+* **Suara Ayomide**
+
+* **Chukwuoma Chizoba**
 
