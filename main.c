@@ -1,5 +1,21 @@
 #include "monty.h"
+<<<<<<< HEAD
 bus_t bus = {NULL, NULL, NULL, 0};
+=======
+
+global_t vglo;
+/**
+ * free_vglo - frees the global variables
+ *
+ * Return: no return
+ */
+void free_vglo(void)
+{
+	free_dlistint(vglo.head);
+	free(vglo.buffer);
+	fclose(vglo.fd);
+}
+>>>>>>> test-1
 /**
 * main - monty code interpreter
 * @argc: number of arguments
