@@ -16,6 +16,7 @@ This is a language that contains specific instructions to manipulate data inform
 3. Compile
  
  ```gcc -Wall -Werror -Wextra -pedantic *.c -o monty```
+
 4. Execute:
 
     ```
