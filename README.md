@@ -14,7 +14,28 @@ This is a language that contains specific instructions to manipulate data inform
     
     ```cd monty```
 3. Compile
-    ```gcc -Wall -Werror -Wextra -pedantic *.c -o monty```
+ 
+ ```gcc -Wall -Werror -Wextra -pedantic *.c -o monty```
+4. Execute:
+
+    ```
+    ./monty file.m
+//The file contains the bytcode instructions for example
+cat -e 000.m
+push 0$
+push 1$
+push 2$
+  push 3$
+                   pall    $
+push 4$
+    push 5    $
+      push    6        $
+pall$
+```
+## <u>Functions</u>
+The functions used are:
+| Name | Description | Return | File |
+|:-----|:-----------:|-------:|------:|
 
 ## Project by Suara Ayomide and Chukwuoma Chizoba
 
