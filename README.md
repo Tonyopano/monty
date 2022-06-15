@@ -32,7 +32,7 @@ push 4$
       push    6        $
 pall$
 ```
-## <u>Functions</u>
+## <u> Functions </u>
 The functions used are:
 | Name | Description | Return | File |
 |:-----|:-----------:|-------:|------:|
