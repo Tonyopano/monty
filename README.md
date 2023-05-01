@@ -109,18 +109,17 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Tony Opano</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Tonopano">Github</a></li>
+    <li><a href="https://www.twitter.com/Tony_opano">Twitter</a></li>
+    <li><a href="mailto:antonyopano@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Chukwuoma Chizoba</summary>
+    <summary>Vivian Ochieng</summary>
     <ul>
-    <li><a href="https://www.github.com/classychizzy">Github</a></li>
-    <li><a href="https://www.twitter.com/Classy_chizzy">Twitter</a></li>
-    <li><a href="mailto:chizobachukwuoma@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Eng.vianne">Github</a></li>
+    
     </ul>
 </details>
